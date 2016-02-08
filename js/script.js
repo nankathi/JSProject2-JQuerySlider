@@ -11,7 +11,7 @@ $(document).ready(function(){
     $('.slide').hide();
     
     //Show first slide
-    $('.active').show();
+    $('.active').show(); 
     
     //Next slide
     $('#next').on('click',nextSlide); //End of Next slide
